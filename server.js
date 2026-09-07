@@ -29,7 +29,7 @@ app.get("/", (req, res) => {
 
         <body>
             <div class="box">
-                <h1>AWS Day 16-17 🚀</h1>
+                <h1>Hello AWS Day 19 - Version 2 🚀</h1>
                 <h2>Node.js App is Running!</h2>
 
                 <p><b>Application:</b> Node.js</p>
